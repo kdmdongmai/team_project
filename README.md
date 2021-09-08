@@ -4,7 +4,7 @@
 
 2. git init
 
-3. git add "파일명 or 폴더명"
+3. git add README.md
 
 4. git commit -m "upload message"
 
