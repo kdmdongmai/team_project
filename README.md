@@ -1,5 +1,4 @@
 ** git upload 방법 **
-
 Add file버튼 클릭 > upload file버튼 클릭
 
 
@@ -22,7 +21,6 @@ git init
 git fetch origin
 git checkout master
 git merge origin/master
-
 
 
 
